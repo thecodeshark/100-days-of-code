@@ -22,7 +22,7 @@
 
 **Link to work**:  [Housing Price Prediction](ml_projects/data_flair/beginner/housing_price)
 
-### Day 2: June 4th,2020
+### Day 3: June 4th,2020
 
 **Today's Progress**: Set up my repository. Build a model for the mnist dataset
 
