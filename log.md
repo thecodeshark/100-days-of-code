@@ -30,4 +30,12 @@
 
 **Link to work**: [MNIST](ml_projects/data_flair/beginner/mnist) 
 
+### Day 4: June 5th,2020
+
+**Today's Progress**: Built GUI for the mnist model 
+
+**Thoughts**: The model does not perform as well with the GUI. Need to tweak the model/input mechanism to the model to get better results
+
+**Link to work**: [MNIST](ml_projects/data_flair/beginner/mnist) 
+
 
