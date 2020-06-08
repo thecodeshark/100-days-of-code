@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+ 100 Days Of Code - Log
 
 ### Day 0: June 1st, 2020 
 
@@ -37,5 +37,12 @@
 **Thoughts**: The model does not perform as well with the GUI. Need to tweak the model/input mechanism to the model to get better results
 
 **Link to work**: [MNIST](ml_projects/data_flair/beginner/mnist) 
+
+### Day 5: June 6th,2020
+
+**Today's Progress**: Titaanic dataset kaggle baseline
+
+
+**Link to work**: [MNIST](ml_projects/data_flair/beginner/titanic) 
 
 
