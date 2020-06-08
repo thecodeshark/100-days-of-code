@@ -40,9 +40,16 @@
 
 ### Day 5: June 6th,2020
 
-**Today's Progress**: Titaanic dataset kaggle baseline
+**Today's Progress**: Titanic dataset kaggle baseline
 
+**Link to work**: [Titanic](ml_projects/data_flair/beginner/titanic) 
 
-**Link to work**: [MNIST](ml_projects/data_flair/beginner/titanic) 
+### Day 6: June 7th,2020
+
+**Today's Progress**: Wine Quality model built
+
+**Thoughts**: The wine quality dataset is a good beginner dataset with high accuracy in almost all models 
+
+**Link to work**: [Wine Quality](ml_projects/data_flair/beginner/wine_quality) 
 
 
