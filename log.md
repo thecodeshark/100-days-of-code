@@ -52,4 +52,12 @@
 
 **Link to work**: [Wine Quality](ml_projects/data_flair/beginner/wine_quality) 
 
+### Day 7: June 8th,2020
+
+**Today's Progress**: Fake News model build
+
+**Thoughts**: Simple Algos perform well. Can test models like LSTM or add wmbedding like word2vec
+
+**Link to work**: [Fake News](ml_projects/data_flair/beginner/fake_news) 
+
 
